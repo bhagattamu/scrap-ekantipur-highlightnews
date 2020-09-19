@@ -17,6 +17,9 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd scrap-ekantipur-highlightnews
 $ yarn install
+$ ECHO >> .env.local
+$ InputObject[0]:PORT=4000
+$ InputObject[1]:
 $ node index
 ```
 
